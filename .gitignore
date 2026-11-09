@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+student_model.pkl
+model_metrics.json
+.streamlit/
